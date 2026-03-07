@@ -8,7 +8,6 @@ Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre
 ---
 
 ## Mi portafolio interactivo
-He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficiencia y la comunicación visual van de la mano.
 **[Explora mis proyectos y visualizaciones aquí](https://andrearvirgos.github.io)**
 
 ---
@@ -34,15 +33,6 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 
 ---
 
-## Actividad en GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="45%" />
-  
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=rank" alt="Estadísticas de GitHub" width="48%" />
-</p>
-
----
 ## 🔍 En qué estoy enfocada ahora
 Actualmente, sigo adquiriendo herramientas para que el dato siempre esté al servicio de la estrategia:
 
@@ -50,7 +40,9 @@ Actualmente, sigo adquiriendo herramientas para que el dato siempre esté al ser
 * **NLP con Python:** Especializándome en **Procesamiento de Lenguaje Natural** para convertir textos y opiniones en insights estructurados.
 * **Advanced Excel:** Potenciando el análisis avanzado para automatizar reportes y agilizar la toma de decisiones en el día a día.
 * **Astro Portfolio:** Evolucionando mi web personal como un ejercicio de comunicación técnica: que la tecnología sea el vehículo y el mensaje sea el protagonista.
+  
 ---
+
 ## Conectemos
 Me motiva trabajar en entornos donde el análisis tenga un impacto real. Si buscas a alguien altamente adaptable, que traduzca datos en estrategia, ¡hablemos!
 
