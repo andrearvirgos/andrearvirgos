@@ -21,7 +21,7 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 
-### Visualización de Datos (Data Storytelling)
+### Data Storytelling
 ![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=python&logoColor=black)
@@ -34,18 +34,23 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 
 ---
 
-## Estadísticas de GitHub
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrearvirgos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearvirgos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="41%" />
-</p>
+## Actividad en GitHub
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrearvirgos&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="45%" />
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&hide=rank" alt="Estadísticas de GitHub" width="48%" />
 </p>
 
 ---
+## 🔍 En qué estoy enfocada ahora
+Actualmente, sigo adquiriendo herramientas para que el dato siempre esté al servicio de la estrategia:
 
+* **Cloud Data Foundations:** Preparándome para la certificación **Microsoft Azure (AZ-900)** para entender la infraestructura donde viven los datos.
+* **NLP con Python:** Especializándome en **Procesamiento de Lenguaje Natural** para convertir textos y opiniones en insights estructurados.
+* **Advanced Excel:** Potenciando el análisis avanzado para automatizar reportes y agilizar la toma de decisiones en el día a día.
+* **Astro Portfolio:** Evolucionando mi web personal como un ejercicio de comunicación técnica: que la tecnología sea el vehículo y el mensaje sea el protagonista.
+---
 ## Conectemos
 Me motiva trabajar en entornos donde el análisis tenga un impacto real. Si buscas a alguien altamente adaptable, que traduzca datos en estrategia, ¡hablemos!
 
