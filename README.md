@@ -1,7 +1,7 @@
 # ¡Hola! Soy Andrea 
 ### Data Analyst | Business & Product Oriented | Data Translator
 
-> "Analizar datos es importante. Entender lo que significan para las personas y el negocio, aún más."
+> "Analizar datos es importante. Entender lo que significan para las personas y el negocio, indispensable."
 
 Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre el comportamiento humano. Tras formarme en **Data Analytics e IA**, mi valor diferencial es **tender puentes**: transformar la complejidad técnica en *insights* estratégicos y accionables para equipos de negocio y producto.
 
@@ -36,7 +36,7 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO]&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=[andrearvirgos]&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" width="40%" />
 </p>
 
@@ -49,4 +49,4 @@ Me motiva trabajar en entornos donde el análisis tenga un impacto real. Si busc
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
 
 ---
-*“Analizar datos es importante. Entender lo que significan para las personas y el negocio, indispensable”*
+*“Vengo de entender realidades a través de las personas para ahora proyectarlas a través de los datos: mi trabajo es que el ruido se convierta en una historia con sentido."”*
