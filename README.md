@@ -36,8 +36,12 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 
 ## Estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=[andrearvirgos]&show_icons=true&theme=nord&hide_border=true" alt="Estadísticas de GitHub" width="45%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO]&layout=compact&theme=nord&hide_border=true" alt="Lenguajes más usados" width="40%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=andrearvirgos&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estadísticas de GitHub" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrearvirgos&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" alt="Lenguajes más usados" width="41%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrearvirgos&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="90%" />
 </p>
 
 ---
@@ -45,8 +49,8 @@ He desarrollado mi portafolio utilizando **Astro** para demostrar que la eficien
 ## Conectemos
 Me motiva trabajar en entornos donde el análisis tenga un impacto real. Si buscas a alguien altamente adaptable, que traduzca datos en estrategia, ¡hablemos!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](URL_DE_TU_LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:TU_CORREO@ejemplo.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andrearvirgos/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andrearrvirgos@gmail.com)
 
 ---
-*“Vengo de entender realidades a través de las personas para ahora proyectarlas a través de los datos: mi trabajo es que el ruido se convierta en una historia con sentido."”*
+*“Vengo de entender realidades a través de las personas para ahora proyectarlas a través de los datos: mi trabajo es que el ruido se convierta en una historia con sentido.”*
