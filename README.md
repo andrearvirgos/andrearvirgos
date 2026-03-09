@@ -8,13 +8,14 @@ Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre
 ---
 
 ## Mi portafolio interactivo
-<p align="center">
-  <img src="https://media.tenor.com/On7tS97bxpYAAAAC/loading-cat.gif" alt="Gato trabajando" width="300" />
-</p>
-<p align="center">
-  <em> Mi portafolio está pasando por control de calidad felino. <br> 
-  <b>Próximamente disponible.</b> Mientras tanto, te invito a echarles un vistazo a mis repos. ¡Gracias por llegar hasta aquí! <3 </em>
-</p>
+<div align="center">
+
+**🚧 WORK IN PROGRESS 🚧**
+
+Actualmente estoy migrando mi portafolio a **Astro**. 
+Mientras tanto, te invito a echarles un vistazo a mis repos. ¡Gracias por llegar hasta aquí! <3
+
+[**📂 Ver mis repositorios destacados**](#-proyectos-destacados)
 
 ---
 
