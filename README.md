@@ -9,11 +9,11 @@ Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre
 
 ## Mi portafolio interactivo
 <p align="center">
-  <img src="https://media.giphy.com/media/unQ3IJU2RG7DO/giphy.gif" alt="Gato trabajando" width="400" />
+  <img src="https://media.tenor.com/On7tS97bxpYAAAAC/loading-cat.gif" alt="Gato trabajando" width="300" />
 </p>
 <p align="center">
-  <em> Mi portafolio en Astro está pasando por control de calidad felino. <br> 
-  <b>Próximamente disponible.</b> Mientras tanto, puedes echar un vistazo a los proyectos en los que he estado trabajando los últimos meses. </em>
+  <em> Mi portafolio está pasando por control de calidad felino. <br> 
+  <b>Próximamente disponible.</b> Mientras tanto, te invito a echarles un vistazo a mis repos. ¡Gracias por llegar hasta aquí! <3 </em>
 </p>
 
 ---
