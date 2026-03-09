@@ -13,9 +13,9 @@ Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre
 **🚧 WORK IN PROGRESS 🚧**
 
 Actualmente estoy migrando mi portafolio a **Astro**. 
-Mientras tanto, te invito a echarles un vistazo a mis repos. ¡Gracias por llegar hasta aquí! <3
+Mientras tanto, te invito a echarles un vistazo a mis repos. ¡Gracias por llegar hasta aquí! 💖
 
-[**📂 Ver mis repositorios destacados**](#-proyectos-destacados)
+[**Ver mis repositorios destacados**](https://github.com/andrearvirgos?tab=repositories)
 
 ---
 
