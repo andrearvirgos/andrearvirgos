@@ -9,7 +9,7 @@ Vengo del ámbito social, lo que me ha dado una mirada curiosa y empática sobre
 
 ## Mi portafolio interactivo
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreDVreHBobm16cjI3eGR3bm16amE0eXp6Z3Z4Z3p6Z3Z4Z3p6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRNo65Z7I9X7uCc/giphy.gif" alt="Gato programando en construcción" width="50%" />
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHRreDVreHBobm16cjI3eGR3bm16amE0eXp6Z3Z4Z3p6Z3Z4Z3p6ZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26BRNo65Z7I9X7uCc/giphy.gif" alt="Gato trabajando duro" width="400" />
 </p>
 <p align="center">
   <em>🐾 Mi portafolio en Astro está pasando por control de calidad felino. <br> <b>Próximamente disponible.</b> Mientras tanto, puedes echar un vistazo a los proyectos en los que he estado trabajando los últimos meses. </em>
